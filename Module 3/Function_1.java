@@ -63,9 +63,10 @@ public class Function_1 {
 		return x + y;
 	}
 
-    static int Sum(int a, int b){
-        return a+b;
-    }
+    // static int Sum(int a, int b){
+    //     return a+b;
+    // }
+
 public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
 
